@@ -18,7 +18,7 @@
 
 ## 🔥 GitHub Stats  
 
-![Naoufel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaoufelAmiar&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Naoufel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naoufel-Amiar&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ---
 
