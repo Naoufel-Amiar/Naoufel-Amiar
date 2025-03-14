@@ -22,12 +22,32 @@
 
 ---
 
-## 🎯 **Technologies & Tools**  
+## 🛠️ **Technologies & Tools**  
 
+### 💻 **Programming & Software Development**  
 ![C#](https://img.shields.io/badge/Language-C%23-blue)  
 ![Python](https://img.shields.io/badge/Language-Python-green)  
 ![C++](https://img.shields.io/badge/Language-C%2B%2B-red)  
-![MAUI](https://img.shields.io/badge/Framework-MAUI-orange)
+![MAUI](https://img.shields.io/badge/Framework-MAUI-orange)  
+![WPF](https://img.shields.io/badge/UI-WPF-purple)  
+![.NET](https://img.shields.io/badge/Framework-.NET-blue)  
+
+### 🏗️ **Design, Electronics & Mechatronics**  
+![TinkerCAD](https://img.shields.io/badge/CAO-TinkerCAD-orange)  
+![Proteus](https://img.shields.io/badge/Sch%C3%A9ma%20%C3%A9lectrique-Proteus-blue)  
+![KiCad](https://img.shields.io/badge/PCB-KiCad-green)  
+![Fusion 360](https://img.shields.io/badge/3D%20Modeling-Fusion%20360-red)  
+
+---
+
+## 🎯 **Compétences**  
+
+✅ **Développement Logiciel & Interfaces** (C#, WPF, MAUI)  
+✅ **Programmation embarquée** (C++, Python, Arduino)  
+✅ **Conception & Simulation CAO** (TinkerCAD, Fusion 360)  
+✅ **Schéma électrique & PCB** (Proteus, KiCad)  
+✅ **Montage Vidéo & Audiovisuel** (Adobe Premiere, After Effects)  
+✅ **Ingénierie & Mécatronique** (Capteurs, Actionneurs, Automatisation)  
 
 ---
 
