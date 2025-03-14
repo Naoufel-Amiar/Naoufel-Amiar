@@ -60,8 +60,7 @@
 ## 🌍 **Connect With Me**  
 
 📌 **GitHub**: [github.com/NaoufelAmiar](https://github.com/NaoufelAmiar)  
-📧 **Email**: [your.email@example.com](mailto:your.email@example.com)  
-🚗 **Fun Fact**: I love rally racing and high-performance engineering!  
+📧 **Email**: amiar.naoufel87@gmail.com](mailto:amiar.naoufel87@gmail.com)  
 
 ---
 
