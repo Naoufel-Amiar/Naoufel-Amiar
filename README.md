@@ -1,6 +1,4 @@
-# 👋 Hello, I'm Naoufel Amiar!  
-
-![Naoufel Amiar - Developer & Engineer](https://raw.githubusercontent.com/Naoufel-Amiar/Naoufel-Amiar/main/ingenieur.png)
+# 👋 Hey, I'm Naoufel Amiar!  
 
 🔹 **Developer | Engineer Enthusiast | Tech Explorer**  
 🔹 Passionate about **Development, Physics, Design & Mechatronics**  
